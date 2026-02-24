@@ -17,17 +17,20 @@ We have provided 2 starter ideas for each dataset — you must design at least 3
 Feature 1: count how many visits a patient has made
 Feature 2: List the doctors a patient has consulted
 Feature 3: Identify what a patient was diagnosed with
-Feature 4: Identify which demographic of patients prefer which doctors
-Feature 5: Identify habits of doctor prescription
+Feature 4: Identify what days/dates patient visit most often
+Feature 5: Identify what the most common illness is
 
 ⌨️ Planned Inputs and Outputs
 Inputs
 
 What kind of data will the user provide (if any)?
 Example: Patient ID, Doctor name
+The user will input their Patient ID.
 
 What kind of results will your program display?
 Example: class averages, top products, weather summary
+The program will display the most recent visit date, what diagnosis was give and what treatment is in order.
+
 🧠 Logic Plan
 Choose ONE way to describe your program’s logic:
 
