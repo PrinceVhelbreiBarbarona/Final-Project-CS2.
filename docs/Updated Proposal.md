@@ -17,8 +17,8 @@ We have provided 2 starter ideas for each dataset — you must design at least 3
 Feature 1: count how many visits a patient has made
 Feature 2: List the doctors a patient has consulted
 Feature 3: Identify what a patient was diagnosed with
-Feature 4: Identify what days/dates patient visit most often
-Feature 5: Identify what the most common illness is
+Feature 4: Identify what demographic of patients, certain doctors perfer
+Feature 5: Identify doctor diagnosis habits
 
 ⌨️ Planned Inputs and Outputs
 Inputs
